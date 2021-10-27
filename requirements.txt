@@ -1,0 +1,15 @@
+SpeechRecognition
+PyAudio
+ibm-watson
+playsound
+google-api-python-client
+python-dotenv~=0.17.1
+pygame~=2.0.1
+lyricsgenius~=3.0.1
+numpy~=1.20.3
+requests~=2.25.1
+youtube-dl
+pydub
+ffmpeg
+firebase_admin
+youtube_title_parse
